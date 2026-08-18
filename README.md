@@ -1,2 +1,2 @@
-# PetPulse
-Developed an AI-powered real-time pet stress detection system using vocal analysis, leveraging deep learning and audio signal processing. Built with Python, TensorFlow, Librosa, and Streamlit to classify stress levels and deliver instant alerts via an interactive interface.
+PetPulse – AI-Based Pet Health Monitoring
+Developed an AI-based system to detect stress and wounds in pets using audio and video analysis, leveraging CNN-LSTM models for vocal stress detection and YOLOv8 for wound detection. Integrated multimodal AI techniques to enable automated and efficient pet health monitoring.
